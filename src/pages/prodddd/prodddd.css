@@ -1,0 +1,9 @@
+
+.table_row{
+  height:50px;
+}
+.table_row img{
+    height:50px;
+    width:50px;
+    object-fit: cover;
+  }

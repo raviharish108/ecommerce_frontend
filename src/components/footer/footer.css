@@ -1,0 +1,11 @@
+.footer_container{
+    height:100px;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer_container_row{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    transform: translateY(50%);
+}
